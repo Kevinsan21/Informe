@@ -21,6 +21,8 @@
 
 .Capitulo 2
 
+![image](https://user-images.githubusercontent.com/84461095/120598105-7ade3780-c40b-11eb-9895-2e2d1867ce2e.png)
+
 # 3. RESOLUCION DE EJERCICIOS
 
 ![](https://github.com/Kevinsan21/Imagenes/blob/main/Conversi%C3%B3n%20de%20unidades_page-0001.jpg)
