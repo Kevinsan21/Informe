@@ -1,4 +1,9 @@
 ![image](https://user-images.githubusercontent.com/84421020/120594175-2ab0a680-c406-11eb-97b6-d6c472c617d5.png)
+![image](https://user-images.githubusercontent.com/84421020/120594238-4451ee00-c406-11eb-83f5-236226223d28.png)
+![image](https://user-images.githubusercontent.com/84421020/120594262-4f0c8300-c406-11eb-9a4a-51cafbc01fe1.png)
+![image](https://user-images.githubusercontent.com/84421020/120594283-5895eb00-c406-11eb-9e52-4cfbebd69e09.png)
+![image](https://user-images.githubusercontent.com/84421020/120594309-6186bc80-c406-11eb-9085-2234b8512851.png)
+![image](https://user-images.githubusercontent.com/84421020/120594378-782d1380-c406-11eb-9e0a-91dabd64c469.png)
 
 
 ![](https://github.com/Kevinsan21/Imagenes/blob/main/Conversi%C3%B3n%20de%20unidades_page-0001.jpg)
