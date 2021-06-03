@@ -7,6 +7,13 @@
 
 # 1. OBJETIVOS
 
+. Entender los conceptos y mediciones de los aparatos electricos para que nos permitan resolver problemas que se nos presentara a lo largo 
+de la carrera mediante la utilizacion de herramientas para poder obtener un resultado mas eficiente.
+
+. Conocer tanto la parte teorica como la practica para asi no tener margenes de error al momento de realizar un medicion.
+
+. Conocer las caracteristicas principales de voltaje y corriente.
+
 
 # 2. MARCO TEORICO
 
@@ -74,4 +81,10 @@
 
 # 5.CONCLUSIONES.
 
+. Se logro un aprendizaje significativo entendiendo asi que pasos seguir para poder realizar 
+una correcta medicion de voltaje y corriente.
+
+. Se realizaron las acciones o instrucciones pertinentes para una medicion tanto con aparatos electricos como en la parte teorica.
+
 # 6.BIBLIOGRAFIA.
+
