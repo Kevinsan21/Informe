@@ -1,3 +1,4 @@
+dawdawdawd
 ![](https://github.com/Kevinsan21/Imagenes/blob/main/Circuitos_01.jpg)
 ![](https://github.com/Kevinsan21/Imagenes/blob/main/Circuitos_02.jpg)
 ![](https://github.com/Kevinsan21/Imagenes/blob/main/Circuitos_03.jpg)
@@ -11,3 +12,4 @@
 ![](https://github.com/Kevinsan21/Imagenes/blob/main/Circuitos_11.jpg)
 ![](https://github.com/Kevinsan21/Imagenes/blob/main/Circuitos_12.jpg)
 ![](https://github.com/Kevinsan21/Imagenes/blob/main/Circuitos_13.jpg)
+awawaeaw
