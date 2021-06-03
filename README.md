@@ -20,11 +20,11 @@
 ![image](https://user-images.githubusercontent.com/84421020/120594378-782d1380-c406-11eb-9e0a-91dabd64c469.png)
 
 .Capitulo 2
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/84461095/120600142-0a84e580-c40e-11eb-843a-293707402c9d.png)
+![image](https://user-images.githubusercontent.com/84461095/120600182-153f7a80-c40e-11eb-8f49-4180787527dd.png)
+![image](https://user-images.githubusercontent.com/84461095/120600214-1e304c00-c40e-11eb-998a-de9ef8956e44.png)
+![image](https://user-images.githubusercontent.com/84461095/120600409-5899e900-c40e-11eb-8e3c-d4c48b8b65da.png)
+![image](https://user-images.githubusercontent.com/84461095/120600569-8aab4b00-c40e-11eb-936a-9563f47f21dd.png)
 
 # 3. RESOLUCION DE EJERCICIOS
 
