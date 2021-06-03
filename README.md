@@ -7,12 +7,12 @@
 
 # 1. OBJETIVOS
 
-. Entender los conceptos y mediciones de los aparatos electricos para que nos permitan resolver problemas que se nos presentara a lo largo 
-de la carrera mediante la utilizacion de herramientas para poder obtener un resultado mas eficiente.
+. Entender los conceptos y mediciones de los aparatos eléctricos para que nos permitan resolver problemas que se nos presentara a lo largo 
+de la carrera mediante la utilización de herramientas para poder obtener un resultado mas eficiente.
 
-. Conocer tanto la parte teorica como la practica para asi no tener margenes de error al momento de realizar un medicion.
+. Conocer tanto la parte teórica como la práctica para así no tener márgenes de error al momento de realizar una medición.
 
-. Conocer las caracteristicas principales de voltaje y corriente.
+. Conocer las características principales de voltaje y corriente.
 
 
 # 2. MARCO TEORICO
