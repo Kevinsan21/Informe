@@ -22,6 +22,10 @@
 .Capitulo 2
 
 ![image](https://user-images.githubusercontent.com/84461095/120598105-7ade3780-c40b-11eb-9895-2e2d1867ce2e.png)
+![image](https://user-images.githubusercontent.com/84461095/120598925-79f9d580-c40c-11eb-98c4-2656ecaa04e3.png)
+
+
+
 
 # 3. RESOLUCION DE EJERCICIOS
 
