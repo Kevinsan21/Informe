@@ -88,3 +88,5 @@ una correcta medicion de voltaje y corriente.
 
 # 6.BIBLIOGRAFIA.
 
+![image](https://user-images.githubusercontent.com/84421020/120662969-34123100-c44f-11eb-8dc9-f210865eedcd.png)
+
