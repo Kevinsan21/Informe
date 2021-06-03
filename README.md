@@ -1,6 +1,8 @@
 # INTEGRANTES
 .Kevin Barrera
+
 .Jennyfer Beltran
+
 .Vanessa Cayambe
 
 ![image](https://user-images.githubusercontent.com/84421020/120594175-2ab0a680-c406-11eb-97b6-d6c472c617d5.png)
