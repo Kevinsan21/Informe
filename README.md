@@ -78,6 +78,7 @@ de la carrera mediante la utilización de herramientas para poder obtener un res
 ![](https://github.com/Kevinsan21/Imagenes/blob/main/Circuitos_13.jpg)
 
 # 4.VIDEO.
+https://www.youtube.com/watch?v=6vWR_mKzPmU
 
 # 5.CONCLUSIONES.
 
