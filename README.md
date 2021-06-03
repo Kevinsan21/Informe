@@ -1,9 +1,14 @@
 # INTEGRANTES
 .Kevin Barrera
 
-.Jennyfer Beltran
+.Jennifer Beltran
 
 .Vanessa Cayambe
+
+# 1. OBJETIVOS
+
+
+# 2. MARCO TEORICO
 
 ![image](https://user-images.githubusercontent.com/84421020/120594175-2ab0a680-c406-11eb-97b6-d6c472c617d5.png)
 ![image](https://user-images.githubusercontent.com/84421020/120594238-4451ee00-c406-11eb-83f5-236226223d28.png)
@@ -12,6 +17,7 @@
 ![image](https://user-images.githubusercontent.com/84421020/120594309-6186bc80-c406-11eb-9085-2234b8512851.png)
 ![image](https://user-images.githubusercontent.com/84421020/120594378-782d1380-c406-11eb-9e0a-91dabd64c469.png)
 
+# 3. RESOLUCION DE EJERCICIOS
 
 ![](https://github.com/Kevinsan21/Imagenes/blob/main/Conversi%C3%B3n%20de%20unidades_page-0001.jpg)
 ![](https://github.com/Kevinsan21/Imagenes/blob/main/Conversi%C3%B3n%20de%20unidades_page-0002.jpg)
@@ -53,3 +59,8 @@
 ![](https://github.com/Kevinsan21/Imagenes/blob/main/Circuitos_12.jpg)
 ![](https://github.com/Kevinsan21/Imagenes/blob/main/Circuitos_13.jpg)
 
+# 4.VIDEO.
+
+# 5.CONCLUSIONES.
+
+# 6.BIBLIOGRAFIA.
